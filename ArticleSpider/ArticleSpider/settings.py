@@ -65,13 +65,20 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'ArticleSpider.pipelines.ArticlespiderPipeline': 300,
+   'ArticleSpider.pipelines.JsonWithEncodingPipeline': 2,
 	# 设置图片管道
-	'scrapy.pipelines.images.ImagesPipeline':1,
+	# 'scrapy.pipelines.images.ImagesPipeline':1,
+   'ArticleSpider.pipelines.ArticleImagePipLine': 1,
+   'ArticleSpider.pipelines.JsonExporterPipleline': 2,
 }
+
 # 指定图片字段
 IMAGES_URLS_FIELD='front_url'
 
+#指定下载的图片大小
+
+# IMAGE_MIN_HEIGHT=100
+# IMAGE_MIN_WIDTH=100
 # 设置图片的保存位置
 project_dir=os.path.abspath(os.path.dirname(__file__))
 IMAGES_STORE=os.path.join(project_dir,'images')

@@ -7,10 +7,11 @@ from urllib.parse import urljoin
 from scrapy.http import Request
 
 from ArticleSpider.items import JobBoleArticleItem
-
+from ArticleSpider.utils.common import getmd5
 
 class JobboleSpider(scrapy.Spider):
 	name = 'jobbole'
+
 	allowed_domains = ['blog.jobbole.com']
 	start_urls = ['http://blog.jobbole.com/all-posts/']
 
@@ -70,13 +71,16 @@ class JobboleSpider(scrapy.Spider):
 		article_item['article_title']=article_title
 		article_item['publish_time']=publish_time
 		article_item['url']=response.url
-		article_item['tag_names']=publish_time
-		article_item['vote_number']=publish_time
-		article_item['front_url']=publish_time
+		article_item['tag_names']=tag_names
+		article_item['vote_number']=vote_number
+		article_item['front_url']=front_url
 		article_item['collect']=collect
 		article_item['vote_number']=vote_number
-		article_item['front_url']=[front_url]
+		article_item['front_url']=[front_url] #这里必须设置为数组
 		article_item['article_contnet']=article_contnet
+		article_item['url_md5']=getmd5(response.url)
+
+
 		# yield 填充好的类
 		yield article_item
 
