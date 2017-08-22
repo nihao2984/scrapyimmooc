@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import re
+from datetime import datetime
 
 import scrapy
 import re
@@ -61,7 +62,7 @@ class JobboleSpider(scrapy.Spider):
 		else:
 			collect = 0
 		#         内容
-		article_contnet = response.css('.entry').extract_first()
+		article_content = response.css('.entry').extract_first()
 		# 图片的URL
 		front_url = response.meta.get('front_img_url')
 
@@ -69,15 +70,20 @@ class JobboleSpider(scrapy.Spider):
 
 		# 从引用的items中为定义好的字段填充相应的内容
 		article_item['article_title']=article_title
+		#将文本转换为日期
+		try:
+			publish_time=datetime.strptime(publish_time,'%Y/%m/%d').date()
+		except Exception as e:
+			publish_time=datetime.now().date()
 		article_item['publish_time']=publish_time
 		article_item['url']=response.url
 		article_item['tag_names']=tag_names
-		article_item['vote_number']=vote_number
+		article_item['vote_number']=int(vote_number)
 		article_item['front_url']=front_url
 		article_item['collect']=collect
 		article_item['vote_number']=vote_number
 		article_item['front_url']=[front_url] #这里必须设置为数组
-		article_item['article_contnet']=article_contnet
+		article_item['article_content']=article_content
 		article_item['url_md5']=getmd5(response.url)
 
 

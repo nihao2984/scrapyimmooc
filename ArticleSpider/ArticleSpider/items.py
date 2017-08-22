@@ -22,7 +22,7 @@ class JobBoleArticleItem(scrapy.Item):
 	tag_names = scrapy.Field()
 	vote_number = scrapy.Field()
 	collect = scrapy.Field()
-	article_contnet = scrapy.Field()
+	article_content = scrapy.Field()
 	vote_number = scrapy.Field()
 	front_url = scrapy.Field()
 	front_image_path = scrapy.Field()

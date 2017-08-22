@@ -2,31 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e36d0e-9563-4e36-bc4f-c5bb8fe94ae9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/utils/common.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArticleSpider/tempdemo1.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/02a0cbede626ecc7d2f4f62b23c46010ede66c3a.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0350eb7e24e8ac39d26bdfcb3077783204129a76.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0a03ec3e1ce1b668b8db0234731fac4915b1064d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0c6dbe22d880d54f3be08f501152139efceb068d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0c7c6eb4253bd11a059781674b421100064233fb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0e89c4879b2842f9c58098e98ad64d0a9d218103.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0ef7e28a091392634bf93187b140a9a9a1296cf7.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0f18f7010da16affe9d1c8f2d687c13e0972aa35.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0f57a2809d0ba0e14cc9ce0d33e30e92cb2592f0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/0f76dcd24f8a5d0095b676d974e274b9e9914d81.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/117976068e2e847f1067d25ea3fa90a3b5a60f3f.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/11a48b07810c909fd0ce4f50b3b33355d43f04e2.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/13524960e8d4632f6f07ce3aa9b88181ad54518f.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/14d81169d0e4f4af8986453f0fdd06356c67353a.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/1920e6dd8243dc236fa1e8abd1a1fa16a072ff2d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/1e3fffdb7f43b2b10152f2f3b6d1e78c66a09bf8.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/1e981633d3d633f8ac4523b786bb76f0251e8b5e.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/1f020353984ba3d88d0e0349f7b5decd4ed6dd8a.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/1fa2a48d2861decd9ce91a980d2cbf42c7800763.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/21812d9d62b935e7b375b95677300b715fa3a48f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/25baaf1aee981547da4ca064aa19b977ec266622.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/27823440373381b04421fc70634750dfcfca3b30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/2f706391ee65fdfc16b116b90f76185b162f1029.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/2d4fd40c8eaec8319c1de2f154b3275aecd23f9d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/2ed5ba686d5170c3536e6941aa4b63289b7ee0ba.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/2f774db07a589d09c8c152c0bb471f04c956412e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/31fff21dc3f6b81c9da11cc14af20c32bc393288.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/340eb88c57cd5078bbd9b3e690fc9c7c0db8c954.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/35011d6168be00e949624c665041dc724e3ad786.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/36430ccefda2f0d333a3bbac206945b3528bf1aa.jpg" afterPath="" />
@@ -35,32 +30,36 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/37d4eb0422ad391a3cea574bc52cd9a2ec0614ca.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/3a4703a3b76c773b75f3f1e48bdc58af9ad2c150.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/3a9b3ac14a7d164c4fac1f8dd02ad33fe714e281.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/3baa3435a22114c8731af7f7b09f8a2962f9ac57.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/3f0be7614d3c4b769873121d69a7e1ad5ae8b755.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/446dd897d21f90a4d65dbceb65e1c3099aed6f04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/41b4657e9821155bd3325ef1334ebce10189b7f6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/459bba9d92521dcf8bee09cc5279896c663192f7.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/49c6509b4b6997ea4dc3eadffba385b0196497cb.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/4a9c9b00ce4180ed890c67d1dc80aad0cac72679.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/4c6abd763d27eeeb4c7e7665f213388ec74df623.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/4ccab0a38c3c13879135519b200e0c60ce7498bb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/4efecb1423ec0b1164163e6fc29cc2d280e0c1c1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/4f98c9ecf55b5d6ac63cc8ecc27f2fa194e86ad0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/506f77aba037cb2bd78064b80470760038a6d491.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/55b1132af682daa4944e35728414d9d865d4670f.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/5a100e2d6c9b049065e2a317a0a393644a168302.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/5b48951660a3dd574009dd9dfb69981fce68b26a.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/5c3e802fa7c46fa53f8411355279d527314c20be.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/5cfcf5e9fbe6da2f72e39223e2bfe60ea4062239.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/5d6df9368785d41523d2ae0a30beadd79fb92b3a.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/5df4d74ef333e85bce73952b363632b42fa5301b.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/5e8775a4506c4ad37e2e965d436efb7888507510.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/5f238582dbf0b714b52f3962d63e9366875164d0.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6032d7dc1233f95d17343e58eeaff17e6a49cb23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/61e83f8220685c9a81e1f9e49c9a8861761868e5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6085acc0af4696f5d49164561c6bc4f9b590fc26.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6239740d346c76b074b2214e85b2f2b369068d45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/625c899e674c438418399f52ee70e33461080e9f.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/63f2aa24b2b070edaefbb38b67ace3ebd11241ce.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/698fbbe1e59a9cbdd4f3e50db401d977fb98d6cd.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6a97cfe7f7f14e4e38447a57e0284a25fe3ecdad.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6b71dd8cb7b56ba90079b35343c571c0236eb5fb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6be559ca13bab9c662992cfdc486acd6d42b61a5.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6d5ab74e9f7db301ffb44a2a9fc3fa10ecc96181.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6e4397ded9dd50c3d6f3c52e128dcffa90427369.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/6fea19912aa975484ea8f1389d4c93135791ba7b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/70a26ac7d36e9a80368f97ef3948b78809073482.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/71bf111fee57343e3033080c83e8e714bef0e88d.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/75f6595b87bc254afe77bc1151f1aea91fb72f4b.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/76dac52543eae84f3fd038af336bf45c1c4c1efe.jpg" afterPath="" />
@@ -72,12 +71,12 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/7e05c40245fcb12ade3bb6dfb7e71a7039b1ea92.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/80ab850be768ae7a65c51623fb321921ff892d2c.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/80b4614d2c41c6d4f76f79bebe8e4d4beca33f43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/821a240836719752ee8f1be9281e9373dabc2aa2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/80cecbf79a5f06eb7460152bae80cab5d6f499f7.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/8247d7b55ee5044e93d1ccfc09b77f960f090b8a.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/841236254aff12faf2e592e888093b493ce6f310.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/857f271a3adaff2d5c4056118f165d5851466b8a.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/867a1e09a3aff5cf84b574af36a9f2695aedd9c8.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/8df83dd8bc57ae7800dd00484fe81b189041997c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/8ec59a708427b99dc7d3761950e0b6443c5ce1eb.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/8ff5816f9a677b8f84896761d3cc647a20a89304.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/92195357d24493250ceca135476203662d9775e6.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/9274d0cae01a507ba2db43fe747fe8174c24fa11.jpg" afterPath="" />
@@ -85,31 +84,28 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/9a6b1eab17892544dfe9124f1a91b9757cf15bc5.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/9a8539839727cdcb8492a550ef7b35f838a85f14.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/9d7d43ff6c607ddfd743f689be22c76d0a21bd71.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/9f90fcb037f5bd7aaf49f042fab0f98b0b0bd0d2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/a01ba8722479a3c05e927ef40ac381fcf60c6f35.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/a0c1bbf258eb5064ea3d6b896485a481525b7f95.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/a40642b2e351e77d4763af92a92fdce7c9541156.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/a6e095311cee5dbfc6a3b7e5127f63181f1ad769.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/ae4d5482c537af13f80135bc99500c97dd7c79b5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/a9d57da89cab263e2f865e47192960cec716c90d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/aaec96648512ccffa716f4cd61c4a0886166ec66.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/aba8a39617598b9aa209e097640c72a63135a000.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/ae5704bda1df1c07deb1efa5f979b89054301d53.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/af2aa7503b9a5a4b73437fab997885a3d7f1ae8e.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/afce380e67e6757fa681cdf46ce584920cb491a3.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/b019444f07f74231bdbf3445811ed2d3e5e85724.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/b115c033c502899f0a878f54b5a62805b0d233b4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/b37b71904c7c1fcf62a643220e0c50d92097b640.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/b8b62a5b843645794f8cc7fca80c08394ee5deb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/b7ccda3a3b2f793882325f528f2211d69c7b4f95.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/bb01e2ca1f5120e2d1d54d907dedbdacbe7ac6fe.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/bb38d11fb4038702790e0370ed966c50f186ff40.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/bbd3c66a3badc127bce3c714ce00a0e73265cc91.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/be3c037cbb3c7c32899af846d32a664913c16963.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/bffdf71812c2dbc79d511c6ac624756024e1c358.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/c09cb16c79404789e48f2eba4301ba131665c0c0.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/c75c2b12f396df29701f07322b8d52c18d964c3d.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/c766feed221138f7946130756cddfc7e86e388b4.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/c8b802de5bdc21490e5a2a7e1882a02e3bf9b939.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/cb13c8d9be10209394869622e63cd907d07946c9.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/cb6856e79b5025e46c895464e60a86e2f6c4e811.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/cd2439bb5e4f786766c3778484778002733566d3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d06ceda982fea7eeec79adb8ba276e7c43bc5e1b.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d1090f61ad1b5ed427d81d03e12c8b76397dd93a.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d1b17b98748a74826464a08e6d30a4ee1b15b171.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d230b04aed54ef1d45b25cb4dec148f2c3b77551.jpg" afterPath="" />
@@ -117,12 +113,13 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d395e25b01ef3db391cf2cfb6f5dd73c75721003.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d3d1a5ad957de059084690efae6fdfaa3527e1c3.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d6573fc92df4aa98014ce9dc55320411b7b5bf1d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d91c8c6ea6d894ebf725cdccfda0bccf6f675e36.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/da35ad566039b9a47e7be77df46f799f2628ed32.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/dc3f3abe02d5786d6d2caa044b15d4e14cafdcfa.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/dd36e1ac9db2af41888b4a17b76a865bb91d4510.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/df4aa63e3bb7c345a26e8f2281cc40763d5e55e4.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/dfa8fff3b99c7011381e1666d2c2ba0015a7c34f.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/e422e0f26aa6ddd2315c235c43312dd8eea5c12a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/e4ef10899dd499cd91f9102bff717ea3d2311bfc.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/e4f0172387cbbdb2d04cefa86ba2081b49678dc1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/e4f781fe9bcbb1b14511417240112232bbec89cd.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/e56b761fb7600a480f0de3228665bdb07b09a589.jpg" afterPath="" />
@@ -134,10 +131,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/f42d1238aa0f889b8988c70dd7481c7a4bd3b456.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/f441ef248c27fcc782a5b6bd4465cd4e2a55f0e3.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/f8126bc9d551925f193df7b36fe58420631e3a82.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/fadf6ad5780274895faaeba657b5a533580ba011.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/faffb5213d0e473a17c690180106d247ee338b1e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/ff17de8672c48c6a8dd39a73a0753c9ad77c1693.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/ff4572cdd38455986d3d6be616ebc49296dd76d8.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/items.py" afterPath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/items.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/pipelines.py" afterPath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/pipelines.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/settings.py" afterPath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/jobbole.py" afterPath="$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/jobbole.py" />
@@ -152,7 +150,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/scrapyimmooc$list_demo.coverage" NAME="list_demo Coverage Results" MODIFIED="1502798613171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders" />
     <SUITE FILE_PATH="coverage/scrapyimmooc$jobbole.coverage" NAME="jobbole Coverage Results" MODIFIED="1503286589359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders" />
-    <SUITE FILE_PATH="coverage/scrapyimmooc$main.coverage" NAME="main Coverage Results" MODIFIED="1503308289289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
+    <SUITE FILE_PATH="coverage/scrapyimmooc$main.coverage" NAME="main Coverage Results" MODIFIED="1503372547209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
     <SUITE FILE_PATH="coverage/scrapyimmooc$tempdemo1__1_.coverage" NAME="tempdemo1 (1) Coverage Results" MODIFIED="1503304034710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
     <SUITE FILE_PATH="coverage/scrapyimmooc$tempdemo1.coverage" NAME="tempdemo1 Coverage Results" MODIFIED="1503303845036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrapyimmooc$common.coverage" NAME="common Coverage Results" MODIFIED="1503305769118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/ArticleSpider/utils" />
@@ -163,48 +161,18 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+            <state relative-caret-position="1387">
+              <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="python.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/scrapy/utils/python.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2166">
-              <caret line="122" column="9" lean-forward="false" selection-start-line="122" selection-start-column="9" selection-end-line="122" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArticleSpider/scrapy.cfg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tempdemo1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArticleSpider/tempdemo1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jobbole.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jobbole.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/jobbole.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+            <state relative-caret-position="-396">
+              <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
               </folding>
@@ -212,43 +180,84 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/utils/__init__.py">
+      <file leaf-file-name="task.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/twisted/internet/task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="154">
+              <caret line="671" column="0" lean-forward="false" selection-start-line="671" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/utils/common.py">
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/twisted/internet/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="231">
+              <caret line="865" column="0" lean-forward="false" selection-start-line="865" selection-start-column="0" selection-end-line="865" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="depth.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/scrapy/spidermiddlewares/depth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="250">
+              <caret line="60" column="19" lean-forward="false" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
               <folding>
                 <element signature="e#192#205#0" expanded="true" />
+                <marker date="1503371627718" expanded="true" signature="1664:1753" ph="insert into jobbole... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exporters.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/scrapy/exporters.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/MySQLdb/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1577">
-              <caret line="96" column="6" lean-forward="false" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+            <state relative-caret-position="284">
+              <caret line="85" column="19" lean-forward="false" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -278,11 +287,11 @@
       <list>
         <option value="$PROJECT_DIR$/ArticleSpider/main.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/list_demo.py" />
-        <option value="$PROJECT_DIR$/ArticleSpider/ArticleSpider/items.py" />
         <option value="$PROJECT_DIR$/tempdemo1.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/tempdemo1.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/ArticleSpider/utils/common.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/ArticleSpider/settings.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/ArticleSpider/items.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/ArticleSpider/pipelines.py" />
         <option value="$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/jobbole.py" />
       </list>
@@ -295,10 +304,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="592" />
-    <option name="y" value="580" />
-    <option name="width" value="1584" />
-    <option name="height" value="984" />
+    <option name="x" value="1257" />
+    <option name="y" value="53" />
+    <option name="width" value="1415" />
+    <option name="height" value="935" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -318,6 +327,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -350,6 +361,196 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="site-packages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twisted" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twisted" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="internet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spidermiddlewares" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MySQLdb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3scrapy1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapyimmooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 virtualenv at D:\envs\python3scrapy1 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="881773588" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PySkeletonsNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -418,8 +619,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -709,6 +908,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="49e36d0e-9563-4e36-bc4f-c5bb8fe94ae9" name="Default" comment="" />
@@ -720,21 +922,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="592" y="580" width="1584" height="984" extended-state="0" />
+    <frame x="1257" y="53" width="1415" height="935" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2352132" sideWeight="0.50641024" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5351955" sideWeight="0.49358973" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2868217" sideWeight="0.49358973" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38648295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20664206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26506025" sideWeight="0.9211087" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14341085" sideWeight="0.9211087" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -756,6 +958,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/jobbole.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/jobbole.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -766,25 +980,15 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="25" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="article_title" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4807">
-          <caret line="253" column="42" lean-forward="false" selection-start-line="253" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -802,31 +1006,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/twisted/internet/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="1251" column="0" lean-forward="false" selection-start-line="1251" selection-start-column="0" selection-end-line="1251" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/twisted/internet/task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="671" column="0" lean-forward="false" selection-start-line="671" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/twisted/internet/defer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="661" column="0" lean-forward="false" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/scrapy/spidermiddlewares/depth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -851,16 +1034,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/images/full/d3d1a5ad957de059084690efae6fdfaa3527e1c3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -951,13 +1125,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://Python/#D:/userprofile/desktop/scrapyimmooc/ArticleSpider/ArticleSpider/pipelines.py">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1020,13 +1187,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/envs/python3scrapy1/Lib/hashlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1045,13 +1205,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="88" column="12" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1087,26 +1240,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/articleexport.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="0" column="5180593" lean-forward="false" selection-start-line="0" selection-start-column="5180330" selection-end-line="0" selection-end-column="5180593" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/article.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="1" column="3754" lean-forward="false" selection-start-line="1" selection-start-column="3754" selection-end-line="1" selection-end-column="3754" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArticleSpider/tempdemo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1114,35 +1251,116 @@
     <entry file="file://$PROJECT_DIR$/ArticleSpider/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/881773588/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="835" column="68" lean-forward="true" selection-start-line="835" selection-start-column="68" selection-end-line="835" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/articleexport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/article.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="1" column="1051" lean-forward="false" selection-start-line="1" selection-start-column="1051" selection-end-line="1" selection-end-column="1051" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/MySQLdb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="85" column="19" lean-forward="false" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/scrapy/spidermiddlewares/depth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/twisted/internet/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="671" column="0" lean-forward="false" selection-start-line="671" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/envs/python3scrapy1/Lib/site-packages/twisted/internet/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="865" column="0" lean-forward="false" selection-start-line="865" selection-start-column="0" selection-end-line="865" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/jobbole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        <state relative-caret-position="1387">
+          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        <state relative-caret-position="250">
+          <caret line="60" column="19" lean-forward="false" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
           <folding>
             <element signature="e#192#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArticleSpider/ArticleSpider/spiders/jobbole.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
+            <marker date="1503371627718" expanded="true" signature="1664:1753" ph="insert into jobbole... " />
           </folding>
         </state>
       </provider>

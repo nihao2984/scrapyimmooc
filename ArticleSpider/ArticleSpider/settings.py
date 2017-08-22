@@ -65,11 +65,11 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'ArticleSpider.pipelines.JsonWithEncodingPipeline': 2,
-	# 设置图片管道
-	# 'scrapy.pipelines.images.ImagesPipeline':1,
-   'ArticleSpider.pipelines.ArticleImagePipLine': 1,
-   'ArticleSpider.pipelines.JsonExporterPipleline': 2,
+   # 'ArticleSpider.pipelines.JsonWithEncodingPipeline': 2,
+	# # 设置图片管道
+	# # 'scrapy.pipelines.images.ImagesPipeline':1,
+   # 'ArticleSpider.pipelines.ArticleImagePipLine': 1,
+   'ArticleSpider.pipelines.MysqlPipeLine': 1,
 }
 
 # 指定图片字段

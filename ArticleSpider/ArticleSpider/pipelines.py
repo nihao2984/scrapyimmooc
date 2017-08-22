@@ -6,6 +6,7 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import codecs
 import json
+import  MySQLdb
 from scrapy.exporters import JsonItemExporter
 from scrapy.pipelines.images import ImagesPipeline
 
@@ -48,3 +49,20 @@ class JsonExporterPipleline(object):
 	def process_item(self, item, spider):
 		self.exporter.export_item(item)
 		return item
+
+
+class MysqlPipeLine(object):
+	def __init__(self):
+		self.conn=MySQLdb.connect('127.0.0.1','root','root','articlespider',charset='utf8',use_unicode=True)
+		self.cursor=self.conn.cursor()
+
+	def process_item(self, item, spider):
+		insert_sql='''
+		insert into jobbole (article_title,url,publish_time,vote_number)
+		VALUES
+		(%s,%s,%s,%s)
+		'''
+
+		self.cursor.execute(insert_sql,(item['article_title'],item['url'],item['publish_time'],item['vote_number']))
+		self.conn.commit()
+
